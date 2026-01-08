@@ -29,7 +29,11 @@ This project develops an agentic AI system that acts as tireless guardians of ne
 - **FastAPI**: High-performance web framework for building APIs
 - **Uvicorn**: ASGI server for running FastAPI applications
 - **Google Generative AI (Gemini)**: AI-powered threat analysis
+<<<<<<< HEAD
 - **Scapy**: Network packet manipulation and analysis
+=======
+
+>>>>>>> 11577763b018c370bb49cffeed371ad29cce5cec
 - **Pandas**: Data manipulation and analysis
 - **Supabase**: Backend-as-a-Service for database and authentication
 - **VirusTotal Python SDK**: Integration with VirusTotal API
@@ -49,8 +53,12 @@ This project develops an agentic AI system that acts as tireless guardians of ne
 - **Recharts**: Composable charting library
 - **React Globe.GL**: 3D globe visualization
 - **React Markdown**: Markdown rendering
+<<<<<<< HEAD
 - **Lucide React**: Icon library
 - **JSQR**: QR code scanning library
+=======
+
+>>>>>>> 11577763b018c370bb49cffeed371ad29cce5cec
 
 ### Development Tools
 - **ESLint**: Code linting
@@ -143,6 +151,7 @@ This will start both backend and frontend servers in separate command windows.
 
 ### Option 2: Manual Startup
 
+<<<<<<< HEAD
 #### Start Backend
 ```bash
 cd backend
@@ -152,6 +161,9 @@ source venv/bin/activate  # On macOS/Linux
 
 uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
 ```
+=======
+`
+>>>>>>> 11577763b018c370bb49cffeed371ad29cce5cec
 
 #### Start Frontend
 ```bash
